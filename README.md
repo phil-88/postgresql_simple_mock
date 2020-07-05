@@ -1,2 +1,2 @@
-Simple server mock for vertica client protocol based on postresql client protocol.
+Simple server mock for vertica based on client protocol implementation.
 Protocol is  reverse engineered using tcpflow and original postresql client protocol
